@@ -2,10 +2,10 @@
 
 
 
-[Live Demo](https://mapbox-direction-demo.netlify.app/)
+
 
 
 ## To run:
-
+npm i 
 npm start
 
