@@ -1,0 +1,9 @@
+.container {
+  height: 100%;
+  display: flex;
+  width: 100%;
+  &__map {
+    width: 100%;
+    overflow: hidden;
+  }
+}
